@@ -11,6 +11,9 @@
 *	Edit this section
 *
 * ======================================================= */
+#recent-blog {
+  padding-left: 5px;
+}
 body {
   font-family: "Karla", Arial, sans-serif;
   line-height: 1.8;
